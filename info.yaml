@@ -28,7 +28,9 @@ pinout:
   uo[2]: "output c, NOT gate"
   uo[3]: "output d, NOT gate"
   uo[4]: "output e, XOR gate"
+  uo[5]: ""
   uo[6]: "output g, NOT gate"
+  uo[7]: ""
 
 
 yaml_version: 6
