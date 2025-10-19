@@ -17,4 +17,4 @@ Set the inputs and check if they match with the outputs.
 
 ## External Hardware
 
-List external hardware used in your project (e.g. PMOD, LED Display)
+List external hardware used in your project (e.g. PMOD, LED Display, etc), if any
