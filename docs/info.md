@@ -14,3 +14,7 @@ This project uses XOR and NOT gates to connect to inputs a, b, c, d, e, f, g, an
 ## How to test
 
 Set the inputs and check if they match with the outputs.
+
+## External Hardware
+
+List external hardware used in your project (e.g. PMOD, LED Display)
