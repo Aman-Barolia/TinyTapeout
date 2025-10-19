@@ -10,11 +10,16 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 This project uses XOR and NOT gates to connect to inputs a, b, c, d, e, f, g, and h.
+hhhhh
 
 ## How to test
 
 Set the inputs and check if they match with the outputs.
+hhhh
 
 ## External Hardware
 
-List external hardware used in your project (e.g. PMOD, LED Display, etc), if any
+List external hardware used in your project (e.g. PMOD, LED Display, etc), if anyjjj
+
+
+
