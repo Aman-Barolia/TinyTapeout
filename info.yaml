@@ -13,22 +13,22 @@ project:
 
 pinout:
 
-  ui[0]: "XOR gate"
-  ui[1]: "XOR gate"
-  ui[2]: "NOT gate"
-  ui[3]: "NOT gate"
-  ui[4]: "NOT gate"
-  ui[5]: "XOR gate"
-  ui[6]: "XOR gate"
-  ui[7]: "NOT gate"
+  ui[0]: "input a, XOR gate"
+  ui[1]: "input b, XOR gate"
+  ui[2]: "input c, NOT gate"
+  ui[3]: "input d, NOT gate"
+  ui[4]: "input e, NOT gate"
+  ui[5]: "input f, XOR gate"
+  ui[6]: "input g, XOR gate"
+  ui[7]: "input h, NOT gate"
 
  
-  uo[0]: "XOR gate"
-  uo[1]: "NOT gate"
-  uo[2]: "NOT gate"
-  uo[3]: "NOT gate"
-  uo[4]: "XOR gate"
-  uo[6]: "NOT gate"
+  uo[0]: "output a, XOR gate"
+  uo[1]: "output b, NOT gate"
+  uo[2]: "output c, NOT gate"
+  uo[3]: "output d, NOT gate"
+  uo[4]: "output e, XOR gate"
+  uo[6]: "output g, NOT gate"
 
 
 yaml_version: 6
