@@ -63,4 +63,4 @@ jobs:
           name: test-vcd
           path: |
             test/*.vcd
-            test/results.xml
+            
